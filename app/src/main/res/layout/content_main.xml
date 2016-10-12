@@ -20,13 +20,14 @@
         android:background="@android:color/transparent"
         android:layout_marginTop="59dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/power_button_desc" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Pool Sensor is OFF"
+        android:textAppearance="@style/TextAppearance.Design.CollapsingToolbar.Expanded"
+        android:text="@string/pool_sensor_off"
         android:id="@+id/sensorText"
         android:layout_marginTop="69dp"
         android:background="@null"

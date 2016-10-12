@@ -1,9 +1,22 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Pool Sensor</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="pool_sensor_off">Pool Sensor is OFF</string>
+    <string name="pool_sensor_on">Pool Sensor is ON</string>
+    <string name="power_button_desc">Turn the sensor ON/OFF</string>
+
+    <string name="triggered_text">ALARM TRIGGERED</string>
+    <string name="deactivate_button">DEACTIVATE</string>
+    <string name="caution_image_desc">ALARM TRIGGERED</string>
+
+    <string name="menu_status">Status</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_title">Pool Sensor</string>
 </resources>
